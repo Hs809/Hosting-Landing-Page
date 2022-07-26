@@ -10,7 +10,7 @@ I have build this website with my core HTML CSS skills
 
 ![image](./images/created.png)
 
-You can check out here: [Justice By Hitesh](https://justice-by-hitesh.netlify.app/)
+You can check out here: [Hosting Page By Hitesh](https://hosting-landing-page-by-hitesh.netlify.app/)
 
 
 
